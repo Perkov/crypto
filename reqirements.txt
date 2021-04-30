@@ -1,0 +1,5 @@
+pandas
+cryptocompare
+gcsfs
+fsspec
+google-cloud-storage
